@@ -278,6 +278,10 @@ h7 {
   background: #64c194;
   color: white;
 }
+.nav-tabs .nav-link:hover {
+  background: #64c194;
+  color: white;
+}
 
 .best-selling-product {
   background-color: var(--color-green);

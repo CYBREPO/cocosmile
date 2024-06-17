@@ -207,6 +207,7 @@ p {
         filter: brightness(0.9);
     }
 }
+
 .new-launch {
     position: absolute;
     top: 50%;
@@ -275,6 +276,11 @@ p {
         font-weight: 500;
 
         &.active {
+            background: #64c194;
+            color: white;
+        }
+
+        &:hover {
             background: #64c194;
             color: white;
         }
